@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <title> Heading And Sub Headings </title>
+    </head>
+  <body>
+    <h1> HTML </h1>        
+    <h2> CSS </h2>
+    <h3> JavaScript </h3>
+    <h4> Frontend </h4>
+    <h5> Backend </h5>
+    <h6> Full Stack </h6>
+  </body>
+</html>
