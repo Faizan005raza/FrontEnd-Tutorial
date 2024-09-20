@@ -1,0 +1,9 @@
+<!DOCTYPE html>                          <!__ This Line Shows We Are Using HTML5__>
+<html>                                   <!__ Root Element__>
+  <head>                                 <!__ Container For Metadata__>
+    <title>My First Page</title>         <!__ Title Of The Website__>
+  </head>
+<body>                                   <!__ Main Body Of Program__>
+  <p>Hello World!</p>                    <!__ This is the Paragraph tag where we write the content of the body__>
+</body>
+</html>
